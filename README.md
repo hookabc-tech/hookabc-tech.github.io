@@ -1,2 +1,2 @@
 # hookabc-tech.github.io
-HookABC (www.hookabc.com)是开发者的双语技能学习平台
+HookABC ([www.hookabc.com](www.hookabc.com)) 是开发者的双语技能学习平台
