@@ -1,5 +1,5 @@
 # HookABC：开发者的双语技术学习利器
-[www.hookabc.com](www.hookabc.com)
+[https://www.hookabc.com](https://www.hookabc.com)
 ---
 
 ![HookABC技术学习平台](https://example.com/hookABC-banner.jpg)
