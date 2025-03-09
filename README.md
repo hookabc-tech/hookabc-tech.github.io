@@ -5,7 +5,7 @@
 ![HookABC技术学习平台](https://example.com/hookABC-banner.jpg)
 
 > **编程与英语，一次学习，双重提升**  
-> 已有超过1000名开发者通过HookABC提升编程和英语能力
+> 已有超过1000名开发者通过hookabc提升编程和英语能力
 
 ---
 
