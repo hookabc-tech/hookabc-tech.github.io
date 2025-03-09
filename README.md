@@ -1,7 +1,5 @@
 # HookABC：开发者的双语技术学习利器
-
-## 突破语言与技术的双重壁垒
-
+([www.hookabc.com](www.hookabc.com))
 ---
 
 ![HookABC技术学习平台](https://example.com/hookABC-banner.jpg)
